@@ -71,5 +71,6 @@ This project complies with:
 - [Regulations on Open Data](https://zakon.rada.gov.ua/laws/show/835-2015-%D0%BF)
 
 ### License
-MIT License
+MIT License 
+
 Use at your own risk. Data is for informational and educational purposes only.
